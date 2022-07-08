@@ -10,7 +10,7 @@ var persone = ["Pupow 🐶", "e come suona la cassa oh", "cassa attiva", "io vi 
 "ma che è dubai oo 🌃", "ma che è netflix oo", "ma chi è bred pitt?", "ma chi è enrique iglesias?", "che piccolaa 🐻",
 "lo zaino? 🎒 ", "controlliamo il monopattino", "girate lo smartphone in orizzonatale 📱", "che qualitàà",
 "4000mila kappabait per second", "apple watch serie 7 🍎", "vogliosi premiatemi ogni tanto", "accendiamo il faretto",
-"e chi è rocky ò Barboun' 👊", ""];
+"e chi è rocky ò Barboun' 👊", "gnanuino sempre presente", "flo905 sempre tra  i primi a scrivere"];
 
  
 
