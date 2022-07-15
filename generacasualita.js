@@ -6,11 +6,13 @@ var persone = ["Pupow 🐶", "e come suona la cassa oh", "cassa attiva", "io vi 
 "grazie brameil", "grazie armandopeto per questa gif", "italiana? 🇮🇹", "single? ", "sposata?💍", "maggiorenni?🔞",
 "io sono sempre onesto con voi", "che devo fare chat?", "verytimid gurl", "ohh mai gadd", "ppporccoddio", "Pierino ",
 "mi state trollando", "chip m1 🍎", "viva la figa", "ciuffo voglioso 👨‍🦱", "io non ho sponsor",
-"stasera vado da julia", "no vabbè", "vi aggionrno su instagram ", "limone velocc", "da quanto tempo non baci un ragazzo?",
+"stasera vado da julia", "no vabbè",  "limone velocc", "da quanto tempo non baci un ragazzo?",
 "ma che è dubai oo 🌃", "ma che è netflix oo", "ma chi è bred pitt?", "ma chi è enrique iglesias?", "che piccolaa 🐻",
 "lo zaino? 🎒 ", "controlliamo il monopattino", "girate lo smartphone in orizzonatale 📱", "che qualitàà",
 "4000mila kappabait per second", "apple watch serie 7 🍎", "vogliosi premiatemi ogni tanto", "accendiamo il faretto",
-"e chi è rocky ò Barboun' 👊", "gnanuino sempre presente", "flo905 sempre tra  i primi a scrivere"];
+"e chi è rocky ò Barboun' 👊", "gnanuino sempre presente", "flo905 sempre tra  i primi a scrivere", "uuuh che manine 💅",
+              "io non sono un gamer", "vi aggiorno dopo su intagram", "bravissima, 28 anni", "io ho un condom🎈 ",
+              "non ti è andata poi così male"];
 
  
 
